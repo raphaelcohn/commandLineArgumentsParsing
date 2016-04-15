@@ -34,7 +34,7 @@ import java.nio.file.Path;
 import java.util.*;
 import java.util.function.Supplier;
 
-import static com.stormmq.functions.CollectionHelper.addOnce;
+import static com.stormmq.functions.collections.CollectionHelper.addOnce;
 import static com.stormmq.commandLineArgumentsParsing.OptionMustBe.OptionCanBeAbsent;
 import static com.stormmq.commandLineArgumentsParsing.OptionMustBe.OptionMustBePresent;
 import static com.stormmq.applications.Verbosity.*;
