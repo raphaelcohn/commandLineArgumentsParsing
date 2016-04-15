@@ -13,7 +13,7 @@ The license for this project is MIT.
 
 ## Dependencies
 
-This code depends on [intellij-library-annotations], [intellij-library-jopt], [string], [functions] and [path]. It is designed to be included as a folder in an IntelliJ project under `source`, eg as `source/commandLineArgumentsParsing`.
+This code depends on [intellij-library-annotations], [intellij-library-jopt], [string], [functions], [path] and [applications]. It is designed to be included as a folder in an IntelliJ project under `source`, eg as `source/commandLineArgumentsParsing`.
 
 
 [intellij-library-annotations]:  https://github.com/raphaelcohn/intellij-library-annotations "intellij-library-annotations GitHub page"
@@ -21,4 +21,5 @@ This code depends on [intellij-library-annotations], [intellij-library-jopt], [s
 [string]: https://github.com/raphaelcohn/string "string GitHub page"
 [string]: https://github.com/raphaelcohn/functions "functions GitHub page"
 [string]: https://github.com/raphaelcohn/path "path GitHub page"
+[string]: https://github.com/raphaelcohn/applications "applications GitHub page"
 [commandLineArgumentsParsing]: https://github.com/raphaelcohn/commandLineArgumentsParsing "commandLineArgumentsParsing GitHub page"
